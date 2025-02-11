@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_WorkSpace_rct-icon rct-icon-uncheck</name>
+   <tag></tag>
+   <elementGuidId>28918aeb-82b8-4393-b10d-e5a65a0ee16c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='WorkSpace'])[1]/following::*[name()='svg'][2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>7bcb091d-2bc3-49ae-b13b-21296d08febf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>07d35278-b9c7-4165-8e9f-13ba81f3d6d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>c655b3a0-c00c-4566-93d9-7e301bcc6b0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-width</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>9851cfa0-011a-49b9-bb66-3d1833350d6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>571822cb-dd05-417e-9be5-f11f5c91511c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rct-icon rct-icon-uncheck</value>
+      <webElementGuid>fe26734c-1c14-4bfc-82f6-c39f565503ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>eb37e0c5-08f2-43fa-ba78-48cc733db59c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>0fdd8fea-4466-4da9-b032-7f53d5fc760a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>850777d3-d26b-4d89-ab60-89824bbb0979</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tree-node&quot;)/ol[1]/li[@class=&quot;rct-node rct-node-parent rct-node-expanded&quot;]/ol[1]/li[@class=&quot;rct-node rct-node-parent rct-node-expanded&quot;]/ol[1]/li[@class=&quot;rct-node rct-node-parent rct-node-collapsed&quot;]/span[@class=&quot;rct-text&quot;]/label[1]/span[@class=&quot;rct-checkbox&quot;]/svg[@class=&quot;rct-icon rct-icon-uncheck&quot;]</value>
+      <webElementGuid>d30780a0-40f3-429b-883a-71207a3222e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WorkSpace'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>31d6c55f-81e4-43bc-b94a-5cd7e69773c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Documents'])[1]/following::*[name()='svg'][5]</value>
+      <webElementGuid>f2a7cf84-66ab-4351-b354-7744d521fac8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Office'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>305f80d8-7423-4644-bab0-a2ab7f9a3abe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Downloads'])[1]/preceding::*[name()='svg'][5]</value>
+      <webElementGuid>d5da981c-05a0-46e0-81de-1dc31e0c3dab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WorkSpace'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>c84ff920-cf95-4797-8c63-3629b062727e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Documents'])[1]/following::*[name()='svg'][4]</value>
+      <webElementGuid>910e2942-5be8-4018-9336-772ae4f970dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='React'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>e31422ba-85d6-4e48-a800-ffe0d7f4e448</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Angular'])[1]/preceding::*[name()='svg'][4]</value>
+      <webElementGuid>54278577-f472-4ced-a2a1-bdd651c29b9e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

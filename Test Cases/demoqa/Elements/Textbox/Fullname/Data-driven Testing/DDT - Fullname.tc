@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Data-driven testing untuk kolom fullname</description>
+   <name>DDT - Fullname</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c1ec4095-2dfa-442b-a185-3fc5c6a59d6e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>409054e3-e62b-41ca-af0e-72100f97a4c4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d5dec18d-ad50-45a2-9562-f62cee746842</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Muhammad Sutrisna Ramadhan'</defaultValue>
+      <description></description>
+      <id>409054e3-e62b-41ca-af0e-72100f97a4c4</id>
+      <masked>false</masked>
+      <name>input</name>
+   </variable>
+   <variable>
+      <defaultValue>'Muhammad Sutrisna Ramadhan'</defaultValue>
+      <description></description>
+      <id>d5dec18d-ad50-45a2-9562-f62cee746842</id>
+      <masked>false</masked>
+      <name>expectedResult</name>
+   </variable>
+</TestCaseEntity>

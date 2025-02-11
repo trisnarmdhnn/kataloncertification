@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memasukkan huruf kapital awal pada kolom fullName</description>
+   <name>Input Uppercase</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>35a77080-5210-42cb-875a-4860c8b7079e</testCaseGuid>
+</TestCaseEntity>

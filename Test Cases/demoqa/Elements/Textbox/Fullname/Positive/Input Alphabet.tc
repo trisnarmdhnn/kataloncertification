@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>memasukkan alphabet ke kolom fullname</description>
+   <name>Input Alphabet</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>343e790e-146d-4450-946c-62341bef2009</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2afef8a6-8cd4-48b5-ad97-309112f8e6ce</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>24a5eab4-dc71-4303-b547-c036e5f02945</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'testHuruf'</defaultValue>
+      <description></description>
+      <id>2afef8a6-8cd4-48b5-ad97-309112f8e6ce</id>
+      <masked>false</masked>
+      <name>input</name>
+   </variable>
+   <variable>
+      <defaultValue>'testHuruf'</defaultValue>
+      <description></description>
+      <id>24a5eab4-dc71-4303-b547-c036e5f02945</id>
+      <masked>false</masked>
+      <name>expectedResult</name>
+   </variable>
+</TestCaseEntity>

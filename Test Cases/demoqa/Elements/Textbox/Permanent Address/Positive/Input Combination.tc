@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input Combination</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>be889c44-ef45-49c6-8f47-bfe5aed3feaa</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cec3b47e-215c-4e93-9650-ab2fcc9e2436</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b74e4e38-9f43-4ced-9da7-3cec0ae8e907</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'kombinasi123.,/?'</defaultValue>
+      <description></description>
+      <id>cec3b47e-215c-4e93-9650-ab2fcc9e2436</id>
+      <masked>false</masked>
+      <name>input</name>
+   </variable>
+   <variable>
+      <defaultValue>'kombinasi123.,/?'</defaultValue>
+      <description></description>
+      <id>b74e4e38-9f43-4ced-9da7-3cec0ae8e907</id>
+      <masked>false</masked>
+      <name>expected</name>
+   </variable>
+</TestCaseEntity>

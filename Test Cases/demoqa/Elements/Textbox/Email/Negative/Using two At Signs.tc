@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memasukkan email tanpa menggunakan @</description>
+   <name>Using two At Signs</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a79a3b3e-dc0e-48cd-9f00-6d397c6e725e</testCaseGuid>
+</TestCaseEntity>

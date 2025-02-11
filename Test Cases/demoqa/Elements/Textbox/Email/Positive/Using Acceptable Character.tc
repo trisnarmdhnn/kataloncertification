@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memasukkan email dengan format yang benar menggunakan karakter titik ditengah kata</description>
+   <name>Using Acceptable Character</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>caf8df58-4224-4d21-afed-0ab488a9d39f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f5ba90ef-cbe5-4d16-8051-1fc75f05cff3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>18d11fa9-770e-4676-8cd5-dbe82a938d1f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'acceptable.character@gmail.com'</defaultValue>
+      <description></description>
+      <id>f5ba90ef-cbe5-4d16-8051-1fc75f05cff3</id>
+      <masked>false</masked>
+      <name>input</name>
+   </variable>
+   <variable>
+      <defaultValue>'acceptable.character@gmail.com'</defaultValue>
+      <description></description>
+      <id>18d11fa9-770e-4676-8cd5-dbe82a938d1f</id>
+      <masked>false</masked>
+      <name>expectedResult</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Positive</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>2d139179-62b2-4f04-9456-803ab064a68b</testSuiteGuid>
+   <testCaseLink>
+      <guid>5964a7d3-2ef5-4fc3-9ad1-1b439863d37b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/demoqa/Elements/Textbox/Fullname/Positive/Fullname Valid</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a751e7ef-d0bd-48ef-baf1-e40060f22787</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>2ab05afa-25fc-4aa7-856d-a492785527f8</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c31e18cf-f690-4806-8969-be68b25f90db</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/demoqa/Elements/Textbox/Fullname/Positive/Input Alphabet</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>2afef8a6-8cd4-48b5-ad97-309112f8e6ce</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>24a5eab4-dc71-4303-b547-c036e5f02945</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>ce7b832c-dc32-4791-bc2e-c9f6c06399fd</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/demoqa/Elements/Textbox/Fullname/Positive/Input Camel Case</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>cc325e6b-df8c-4ee8-ab6b-9c93059680bc</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/demoqa/Elements/Textbox/Fullname/Positive/Input Character</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>26abbf7a-68ce-42f9-babe-55c714081328</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>339b30c5-5c45-4f86-9225-484157547714</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4d9febb2-603e-425e-99a4-73ac0a50eac8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/demoqa/Elements/Textbox/Fullname/Positive/Input Combination</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>21965bed-17f0-48cd-9f33-6e45fcff8d7b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b161e0a9-25ef-4c32-a1f5-745394809440</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>2edd39a5-2515-475a-bff6-5aac47873d0f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/demoqa/Elements/Textbox/Fullname/Positive/Input Lowercase</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>ff24b85e-a0b2-495f-95e2-9ddab1bdf589</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/demoqa/Elements/Textbox/Fullname/Positive/Input Number</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a11c0b06-e59e-490a-aefb-36791237b18f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>2000225f-2697-47bb-9af2-cbb900883a3d</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>84692ea0-626e-4c42-a1a5-d547a6ca914f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/demoqa/Elements/Textbox/Fullname/Positive/Input Uppercase</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>08c976ee-a35a-41af-b1b6-d55f90515ac4</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/demoqa/Elements/Textbox/Fullname/Positive/Input Using Space</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+</TestSuiteEntity>

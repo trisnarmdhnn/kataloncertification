@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDT - Permanent Address</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f7c87157-a25d-4a18-9ade-81cd914dfe0e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0ec22a4e-4cad-43d6-8336-e15174fe1dce</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>30d606d5-4c14-4ce3-8182-c4282baf3733</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Jln. Berkah no.128'</defaultValue>
+      <description></description>
+      <id>0ec22a4e-4cad-43d6-8336-e15174fe1dce</id>
+      <masked>false</masked>
+      <name>input</name>
+   </variable>
+   <variable>
+      <defaultValue>'Jln. Berkah no.128'</defaultValue>
+      <description></description>
+      <id>30d606d5-4c14-4ce3-8182-c4282baf3733</id>
+      <masked>false</masked>
+      <name>expected</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnSubmit</name>
+   <tag></tag>
+   <elementGuidId>47227399-c2c0-4a3d-83bb-b1790f82d745</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='submit']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@id='submit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[@id='submit']</value>
+      <webElementGuid>375128d7-8a19-4bc5-b449-ca53dfc7d08a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//*[@id=&quot;submit&quot;]</value>
+      <webElementGuid>54ecf3e5-3c4a-438c-935f-aebb47426ddc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

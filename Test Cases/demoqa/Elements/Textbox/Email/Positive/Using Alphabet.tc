@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memasukkan email dengan format yang benar menggunakan huruf</description>
+   <name>Using Alphabet</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2e4e5f37-7859-42f6-9c03-34b0b1f6ba01</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d479456f-1128-48a3-9356-c5e624a49227</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9a62ac3f-f7a1-4735-bc28-f2b9cd6032ae</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Alphabet@gmail.com'</defaultValue>
+      <description></description>
+      <id>d479456f-1128-48a3-9356-c5e624a49227</id>
+      <masked>false</masked>
+      <name>input</name>
+   </variable>
+   <variable>
+      <defaultValue>'Alphabet@gmail.com'</defaultValue>
+      <description></description>
+      <id>9a62ac3f-f7a1-4735-bc28-f2b9cd6032ae</id>
+      <masked>false</masked>
+      <name>expectedResult</name>
+   </variable>
+</TestCaseEntity>

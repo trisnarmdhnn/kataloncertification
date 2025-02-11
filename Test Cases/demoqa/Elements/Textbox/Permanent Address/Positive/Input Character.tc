@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input Character</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e036b603-ad71-4c9d-a1d3-26b45f492191</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2f0d64f7-76cb-43d7-a9eb-9e3e41a5d4cf</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ec34c42c-afef-4c3d-9f81-493d2bcbfa45</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'.,/?'</defaultValue>
+      <description></description>
+      <id>2f0d64f7-76cb-43d7-a9eb-9e3e41a5d4cf</id>
+      <masked>false</masked>
+      <name>input</name>
+   </variable>
+   <variable>
+      <defaultValue>'.,/?'</defaultValue>
+      <description></description>
+      <id>ec34c42c-afef-4c3d-9f81-493d2bcbfa45</id>
+      <masked>false</masked>
+      <name>expected</name>
+   </variable>
+</TestCaseEntity>

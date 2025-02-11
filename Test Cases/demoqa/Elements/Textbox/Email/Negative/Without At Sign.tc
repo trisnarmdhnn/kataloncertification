@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memasukkan value tanpa menggunakan @</description>
+   <name>Without At Sign</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>51fe4733-5d74-4555-828a-6585329075f6</testCaseGuid>
+</TestCaseEntity>

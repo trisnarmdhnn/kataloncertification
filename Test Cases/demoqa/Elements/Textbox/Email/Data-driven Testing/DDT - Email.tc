@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDT - Email</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>591020c3-b2e6-4528-9364-f165535995ca</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e85ee913-4375-4224-a1fc-119886231889</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d88c144a-603e-483f-af7f-28556a4d1d15</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'msutrisna@gmail.com'</defaultValue>
+      <description></description>
+      <id>e85ee913-4375-4224-a1fc-119886231889</id>
+      <masked>false</masked>
+      <name>input</name>
+   </variable>
+   <variable>
+      <defaultValue>'msutrisna@gmail.com'</defaultValue>
+      <description></description>
+      <id>d88c144a-603e-483f-af7f-28556a4d1d15</id>
+      <masked>false</masked>
+      <name>expectedResult</name>
+   </variable>
+</TestCaseEntity>

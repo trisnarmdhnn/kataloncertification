@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input Number</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4d3ac7b6-8a5d-438e-8f28-8de684fa67da</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>90625965-ce57-4493-b940-0f4e835d95c2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8eb3c2b1-d37a-4227-b5ea-cf4b9007ae99</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'1234'</defaultValue>
+      <description></description>
+      <id>90625965-ce57-4493-b940-0f4e835d95c2</id>
+      <masked>false</masked>
+      <name>input</name>
+   </variable>
+   <variable>
+      <defaultValue>'1234'</defaultValue>
+      <description></description>
+      <id>8eb3c2b1-d37a-4227-b5ea-cf4b9007ae99</id>
+      <masked>false</masked>
+      <name>expected</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>memasukkan kombinasi huruf besar dan kecil pada kolom fullName</description>
+   <name>Input Camel Case</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3879bbef-9717-4ce7-b537-fe93d3b66f0f</testCaseGuid>
+</TestCaseEntity>

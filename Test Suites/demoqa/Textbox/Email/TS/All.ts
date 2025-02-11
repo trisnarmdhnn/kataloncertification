@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>All</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>36e3720a-e623-43f0-8d2d-ab2e4f5e9455</testSuiteGuid>
+   <testCaseLink>
+      <guid>a703c6a2-1846-48b4-9f8f-4f326e807ae7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/demoqa/Elements/Textbox/Email/Positive/Email Valid</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>94e890a8-2e47-46b8-a8c8-0ebd3d428173</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>e03b3ec3-cadc-4d8b-8e5d-5b9aed51fad5</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>61206958-67d2-4dd7-83f3-4d3b2563cb5f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/demoqa/Elements/Textbox/Email/Positive/Using Acceptable Character</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>f5ba90ef-cbe5-4d16-8051-1fc75f05cff3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>18d11fa9-770e-4676-8cd5-dbe82a938d1f</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>2142f798-6aa7-46c7-b742-15d9c45ebfcd</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/demoqa/Elements/Textbox/Email/Positive/Using Alphabet</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d479456f-1128-48a3-9356-c5e624a49227</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>9a62ac3f-f7a1-4735-bc28-f2b9cd6032ae</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b41d2b1f-5ba2-4dba-93f7-d0ef0fb14f80</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/demoqa/Elements/Textbox/Email/Positive/Using Number</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>8584ea10-9e71-4973-aed2-c860622edffc</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>40ca4a47-cad4-4dae-8892-d7c3cab50147</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>6a7d257a-4c5f-44ac-9f04-363260e5da57</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/demoqa/Elements/Textbox/Email/Negative/Using Forbidden Character</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d754d428-0720-458e-b74e-546273df86e1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/demoqa/Elements/Textbox/Email/Negative/Without At Sign</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>36600d74-a878-49fe-ae54-ca1786bbc937</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/demoqa/Elements/Textbox/Email/Negative/Without Domain</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0830b1f3-722a-4204-bf23-2b19e9e2e7ac</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/demoqa/Elements/Textbox/Email/Negative/Without Site Name</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+</TestSuiteEntity>

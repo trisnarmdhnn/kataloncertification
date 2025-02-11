@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input Valid</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d5ca80ac-4c6c-402d-843d-9ecc899d4878</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0e8f9ea6-eefb-4f07-9e4d-3010ed0bbec4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a2bbde7f-9df9-4c12-ba92-43bab1c98d4c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Jln. Berkah no.128'</defaultValue>
+      <description></description>
+      <id>0e8f9ea6-eefb-4f07-9e4d-3010ed0bbec4</id>
+      <masked>false</masked>
+      <name>input</name>
+   </variable>
+   <variable>
+      <defaultValue>'Jln. Berkah no.128'</defaultValue>
+      <description></description>
+      <id>a2bbde7f-9df9-4c12-ba92-43bab1c98d4c</id>
+      <masked>false</masked>
+      <name>expected</name>
+   </variable>
+</TestCaseEntity>

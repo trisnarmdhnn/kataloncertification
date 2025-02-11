@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user login</description>
+   <name>R001_Login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>340be775-ebc4-4239-ad55-2b54a12b8d0b</testCaseGuid>
+</TestCaseEntity>

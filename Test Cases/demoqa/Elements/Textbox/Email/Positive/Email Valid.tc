@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memasukkan format yang valid pada kolom email</description>
+   <name>Email Valid</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>98cddea8-fe3b-44bd-b5db-f85347f35278</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>94e890a8-2e47-46b8-a8c8-0ebd3d428173</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e03b3ec3-cadc-4d8b-8e5d-5b9aed51fad5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'msutrisna@gmail.com'</defaultValue>
+      <description></description>
+      <id>94e890a8-2e47-46b8-a8c8-0ebd3d428173</id>
+      <masked>false</masked>
+      <name>input</name>
+   </variable>
+   <variable>
+      <defaultValue>'msutrisna@gmail.com'</defaultValue>
+      <description></description>
+      <id>e03b3ec3-cadc-4d8b-8e5d-5b9aed51fad5</id>
+      <masked>false</masked>
+      <name>expectedResult</name>
+   </variable>
+</TestCaseEntity>

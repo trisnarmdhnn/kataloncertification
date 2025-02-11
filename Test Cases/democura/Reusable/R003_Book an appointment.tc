@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>R003_Book an appointment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>05454349-f2ed-437d-a1e7-3224e2e5a5ee</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b5ca8310-26e8-4c96-be91-eeb02f86d73d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e1b5b20a-7923-42b4-9a37-8366a819d473</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Seoul CURA Healthcare Center'</defaultValue>
+      <description></description>
+      <id>b5ca8310-26e8-4c96-be91-eeb02f86d73d</id>
+      <masked>false</masked>
+      <name>HealthcareCenter</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test Katalon'</defaultValue>
+      <description></description>
+      <id>e1b5b20a-7923-42b4-9a37-8366a819d473</id>
+      <masked>false</masked>
+      <name>comment</name>
+   </variable>
+</TestCaseEntity>

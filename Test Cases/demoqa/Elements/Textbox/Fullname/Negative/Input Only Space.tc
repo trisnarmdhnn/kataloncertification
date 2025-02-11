@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memasukkan hanya spasi ke dalam kolom Fullname</description>
+   <name>Input Only Space</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>963eee5d-1616-486c-842b-fe96a64397fd</testCaseGuid>
+</TestCaseEntity>

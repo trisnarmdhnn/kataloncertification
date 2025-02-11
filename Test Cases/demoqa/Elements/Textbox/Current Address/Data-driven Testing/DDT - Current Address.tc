@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDT - Current Address</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e2f4e459-c4dd-4515-b4e4-531281fe4711</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8104da83-065e-4223-8d69-096b09d0556f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ac08bee2-4ced-4d97-b2ef-69d94a157bf7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Jln. Berkah no.128'</defaultValue>
+      <description></description>
+      <id>8104da83-065e-4223-8d69-096b09d0556f</id>
+      <masked>false</masked>
+      <name>input</name>
+   </variable>
+   <variable>
+      <defaultValue>'Jln. Berkah no.128'</defaultValue>
+      <description></description>
+      <id>ac08bee2-4ced-4d97-b2ef-69d94a157bf7</id>
+      <masked>false</masked>
+      <name>expectedResult</name>
+   </variable>
+</TestCaseEntity>

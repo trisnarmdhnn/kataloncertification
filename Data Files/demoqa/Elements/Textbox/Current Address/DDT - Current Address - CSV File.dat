@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>DDT - Current Address - CSV File</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator>COMMA</csvSeperator>
+   <dataFileGUID>5604b684-c525-4122-9f02-2e88141a0acc</dataFileGUID>
+   <dataSourceUrl>C:\Users\Lenovo\Documents\AutomatedTest\Katalon\Data Files\demoqa\Elements\Textbox\Current Address\DDT - Current Address - CSV File.csv</dataSourceUrl>
+   <driver>CSV</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

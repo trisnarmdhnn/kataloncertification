@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memasukkan value tanpa nama situs</description>
+   <name>Without Site Name</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7f8abbc1-1771-447e-9454-b763e130bbd9</testCaseGuid>
+</TestCaseEntity>

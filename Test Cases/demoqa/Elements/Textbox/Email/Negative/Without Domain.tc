@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Without Domain</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7b95a702-9ad2-4db9-8ee8-87fe3a0dc3a8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8694e369-21c3-45b9-bfee-8de4eb9fc382</variableId>
+   </variableLinks>
+</TestCaseEntity>

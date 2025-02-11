@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memasukkan karakter ke dalam kolom currentAddress</description>
+   <name>Input Character</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cb42a866-66e7-4f8a-850c-4d211e421780</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>DDT - Email - Internal Data</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>1e31d878-5fc3-4ef0-ba31-b3151024cc99</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>msutrisna%40gmail.com msutrisna%40gmail.com</data>
+   <data>acceptable.character%40gmail.com acceptable.character%40gmail.com</data>
+   <data>Alphabet%40gmail.com Alphabet%40gmail.com</data>
+   <data>1234%40gmail.com 1234%40gmail.com</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>input</name>
+      <size>4</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>expectedResult</name>
+      <size>4</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

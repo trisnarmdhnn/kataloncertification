@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memasukkan huruf kecil ke dalam kolom fullName</description>
+   <name>Input Lowercase</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>39d3205a-605c-4b30-9161-5f92ca44591f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memasukkan angka ke kolom Fullname</description>
+   <name>Input Number</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6d4deac5-a132-4a0b-966b-a041756fc198</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a11c0b06-e59e-490a-aefb-36791237b18f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2000225f-2697-47bb-9af2-cbb900883a3d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'123456'</defaultValue>
+      <description></description>
+      <id>a11c0b06-e59e-490a-aefb-36791237b18f</id>
+      <masked>false</masked>
+      <name>input</name>
+   </variable>
+   <variable>
+      <defaultValue>'123456'</defaultValue>
+      <description></description>
+      <id>2000225f-2697-47bb-9af2-cbb900883a3d</id>
+      <masked>false</masked>
+      <name>expectedResult</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memasukkan nama yang valid pada kolom Fullname</description>
+   <name>Fullname Valid</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6f4e66f8-27bf-4217-81e0-a2cb974ecf74</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a751e7ef-d0bd-48ef-baf1-e40060f22787</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2ab05afa-25fc-4aa7-856d-a492785527f8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Muhammad Sutrisna Ramadhan'</defaultValue>
+      <description></description>
+      <id>a751e7ef-d0bd-48ef-baf1-e40060f22787</id>
+      <masked>false</masked>
+      <name>input</name>
+   </variable>
+   <variable>
+      <defaultValue>'Muhammad Sutrisna Ramadhan'</defaultValue>
+      <description></description>
+      <id>2ab05afa-25fc-4aa7-856d-a492785527f8</id>
+      <masked>false</masked>
+      <name>expectedResult</name>
+   </variable>
+</TestCaseEntity>

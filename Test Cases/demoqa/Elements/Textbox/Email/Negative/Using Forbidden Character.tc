@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memasukkan email dengan format yang benar menggunakan karakter yang dilarang</description>
+   <name>Using Forbidden Character</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e5e0c2e0-92a8-4d2d-be82-be6b177a2669</testCaseGuid>
+</TestCaseEntity>

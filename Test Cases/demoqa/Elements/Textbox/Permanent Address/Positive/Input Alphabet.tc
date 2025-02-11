@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input Alphabet</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9562a014-d1ee-4235-a04e-1134d8c1d82f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>66680f9d-8d7f-4b05-93e0-414507c32b1e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>30b1b42d-421b-41b8-a3ff-2daf96a42bce</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Input Alphabet'</defaultValue>
+      <description></description>
+      <id>66680f9d-8d7f-4b05-93e0-414507c32b1e</id>
+      <masked>false</masked>
+      <name>input</name>
+   </variable>
+   <variable>
+      <defaultValue>'Input Alphabet'</defaultValue>
+      <description></description>
+      <id>30b1b42d-421b-41b8-a3ff-2daf96a42bce</id>
+      <masked>false</masked>
+      <name>expected</name>
+   </variable>
+</TestCaseEntity>

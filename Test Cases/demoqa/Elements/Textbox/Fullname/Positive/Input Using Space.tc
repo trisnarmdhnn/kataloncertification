@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>memasukkan spasi di tengah kata pada kolom fullName</description>
+   <name>Input Using Space</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>93aec1f5-5acf-4053-b11e-ec38159c5f80</testCaseGuid>
+</TestCaseEntity>
